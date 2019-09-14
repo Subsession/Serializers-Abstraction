@@ -1,1 +1,1 @@
-# Comertis/Serializers-Abstraction tests
+# Serializers-Abstraction tests

@@ -1,5 +1,5 @@
 {
-  "name": "comertis/serializers-abstraction",
+  "name": "subsession/serializers-abstraction",
   "description": "Abstraction for all serializers",
   "type": "library",
   "readme": "README.md",
@@ -8,17 +8,17 @@
   "authors": [
     {
       "name": "Cristian Moraru",
-      "email": "cristian@comertis.com",
+      "email": "cristian.moraru@live.com",
       "role": "Developer"
     }
   ],
   "require": {
     "php": ">=7.0.0",
-    "comertis/exceptions": "^1.0"
+    "subsession/exceptions": "^1.0"
   },
   "autoload": {
     "psr-4": {
-      "Comertis\\Serializers\\Abstraction\\": "src/"
+      "Subsession\\Serializers\\Abstraction\\": "src/"
     }
   }
 }
